@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Picasso</string>
+    <string name="failed_loading">Failed to load image with Picasso :/</string>
+</resources>
